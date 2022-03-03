@@ -1,2 +1,2 @@
 # git-flow
-Gitflow Practice during Microverse Coding Bootcamp
+Gitflow Practice during Microverse Coding School
